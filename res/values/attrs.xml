@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <declare-styleable name="BookmarkSeekbar">
+       <attr name="bookmark_color" format="color"/>
+       <attr name="bookmark_width" format="integer"/>
+   </declare-styleable>
+</resources>
